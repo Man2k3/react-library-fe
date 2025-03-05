@@ -7,7 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 .env
-ssllocal/
+ssl-localhost
 
 node_modules
 dist
